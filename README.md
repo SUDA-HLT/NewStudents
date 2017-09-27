@@ -1,2 +1,19 @@
-# NewStudents
-For the new students who just join a NLP group
+# 新生训练
+
+我们想通过这样一个项目，给新进实验室的同学提供一些简单的和自然语言处理相关的Linux命令，脚本的训练。
+希望做题的同时，能够掌握一些基础的shell和脚本，同时又能对数据有一定的认识，同时能够接触一些nlp的基础问题。
+现在，我们的大部分题目集中在shell和python的使用，未来可能会加入一些其他语言的练习。
+
+=== 说明 ===
+
+*1.练习内容可以从 https://github.com/HIT-SCIR/scir-training-day 上自行下载。
+针对每一个训练内容都给出了详细的说明文档和相关学习资料，注意查询学习。
+  
+*2.另外提供两个学习资料下载地址：
+http://hlt.suda.edu.cn/~zhli/teach/cip-2015-fall/
+
+http://hlt.suda.edu.cn/~zhli/teach/ir-2016-spring/
+
+可以从上述两个网页下载“信息检索”和“中文信息处理“的相关课件、学习任务和公开课资料，方便查阅学习。
+
+注：以上两份资料（1，2）的内容有部分重合，请注意结合使用。
