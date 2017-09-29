@@ -10,6 +10,35 @@
 针对每一个训练内容都给出了详细的说明文档和相关学习资料，注意查询学习。
   
 *2.另外提供两个学习资料下载地址：
+
+http://hlt.suda.edu.cn/~zhli/teach/cip-2015-fall/
+
+http://hlt.suda.edu.cn/~zhli/teach/ir-2016-spring/
+
+可以从上述两个网页下载“信息检索”和“中文信息处理“的相关课件、学习任务和公开课资料，方便查阅学习。
+
+注：以上两份资料（1，2）的内容有部分重合，请注意结合使用。
+
+# 新生训练（New Version, updating）
+通过本项目，给新进实验室的同学提供一些简单的Linux命令、脚本应用、自然语言处理NLP基础任务的训练题目。
+希望做题的同时，能够掌握一些基础的shell和脚本，同时又能对数据有一定的认识，同时能够接触一些nlp的基础问题。
+训练内容：1. 练习使用Shell；2. 练习使用Python；3. 学习NLP小任务（配合研1的计算语言学的课）。
+
+=== 训练题目 ===
+
+- 练习使用Shell
+
+- 练习使用Python
+
+- 学习NLP小任务（配合研1的计算语言学的课）
+
+=== 说明 ===
+
+*1.练习内容可以从 https://github.com/HIT-SCIR/scir-training-day 上自行下载。
+针对每一个训练内容都给出了详细的说明文档和相关学习资料，注意查询学习。
+  
+*2.另外提供两个学习资料下载地址：
+
 http://hlt.suda.edu.cn/~zhli/teach/cip-2015-fall/
 
 http://hlt.suda.edu.cn/~zhli/teach/ir-2016-spring/
