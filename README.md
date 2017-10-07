@@ -20,5 +20,23 @@
 自然语言处理（NLP）相关的基础训练，学会一些基础任务的基本方法
 
 === Code Projects ===
+要求：实现语言：Python and (C++ or Java)
 
-=== NLP Projects ===
+- 英文单词词频统计并按次数排序
+
+- 中文文本字频统计(UTF8)
+
+- 中文文本正向最大匹配分词(UTF8)
+
+
+=== NLP Projects (with NLP course) ===
+
+- 文本分类（学习基本分类算法）
+
+- 分词（基于分类器的分词）
+
+- CKY-依存分析
+
+- SMT
+
+- To add more
