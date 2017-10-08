@@ -23,14 +23,14 @@
 
 实现语言：Python and (C++ or Java)
 
-* 英文单词词频统计并按次数排序 [NewStudents/code-projects/word-count-EN/word-count-EN.md]
+* [英文单词词频统计并按次数排序](code-projects/word-count-EN/word-count-EN.md)
 
-* 中文文本字频统计(UTF8)[NewStudents/code-projects/ch-count-CN/ch-count-CN.md]
+* [中文文本字频统计(UTF8)](code-projects/ch-count-CN/ch-count-CN.md)
 
-* 中文文本正向最大匹配分词(UTF8)[NewStudents/code-projects/word-seg-CN/word-seg-CN.md]
+* [中文文本正向最大匹配分词(UTF8)](code-projects/word-seg-CN/word-seg-CN.md)
 
 
-## NLP Projects (with NLP course) 
+## NLP Projects (with NLP course)  (To add)
 
 实现语言：Python or C++ or Java
 
