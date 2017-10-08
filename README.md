@@ -21,7 +21,7 @@
 
 === Code Projects ===
 
-要求：实现语言：Python and (C++ or Java)
+实现语言：Python and (C++ or Java)
 
 - 英文单词词频统计并按次数排序
 
