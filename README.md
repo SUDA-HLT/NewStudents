@@ -11,11 +11,11 @@
 
   * 针对每一个训练内容都给出了详细的说明文档和相关学习资料，注意查询学习。
 
-* Code Projects
+* Code Projects (详细附后)
 
   * 文本处理相关的基础代码训练，学会处理文本
 
-* NLP Projects（配合研1的计算语言学的课）
+* NLP Projects（配合研1的计算语言学的课，详细附后）
 
   * 自然语言处理（NLP）相关的基础训练，学会一些基础任务的基本方法
 
@@ -23,11 +23,11 @@
 
 实现语言：Python and (C++ or Java)
 
-* 英文单词词频统计并按次数排序
+* 英文单词词频统计并按次数排序 [NewStudents/code-projects/word-count-EN/word-count-EN.md]
 
-* 中文文本字频统计(UTF8)
+* 中文文本字频统计(UTF8)[NewStudents/code-projects/ch-count-CN/ch-count-CN.md]
 
-* 中文文本正向最大匹配分词(UTF8)
+* 中文文本正向最大匹配分词(UTF8)[NewStudents/code-projects/word-seg-CN/word-seg-CN.md]
 
 
 ## NLP Projects (with NLP course) 
