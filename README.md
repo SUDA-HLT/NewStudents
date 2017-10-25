@@ -34,7 +34,7 @@
 
 实现语言：Python or C++ or Java or 基于现有工具
 
-* 文本分类（学习基本分类算法）
+* [文本分类（学习基本分类算法）](nlp-projects/text-classification/text-classification.md)
 
 * 分词（基于分类器的分词）
 
