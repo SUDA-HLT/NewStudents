@@ -38,7 +38,7 @@
 
 * 分词（基于分类器的分词）
 
-* 命名实体识别NER
+* [命名实体识别NER](nlp-projects/Named-Entity-Recognition/ner.md)
 
 * CKY-依存分析
 
