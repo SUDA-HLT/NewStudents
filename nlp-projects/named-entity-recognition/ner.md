@@ -47,6 +47,6 @@
 **CRF讲义：** http://hlt.suda.edu.cn/~zhli/teach/cip-2015-fall/11-global-linear-model/main.pdf<br>
 **pycrfsuite安装：** pip install python-crfsuite<br>
 **pycrfsuite教程：** https://github.com/txHe/UseOfPycrfsuite<br>
-**深度学习模型：** http://120.132.13.131:8080/wiki/index.php/%E7%94%A8%E6%88%B7:Ethan_yys<br>
+**深度学习模型：** LSTM-CRF模型<br>
 
 
